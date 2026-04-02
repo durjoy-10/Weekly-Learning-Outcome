@@ -1,21 +1,3 @@
-# Weekly-Learning-Outcome
-
-![image](img/img01.png)
-
-![image](img/img02.png)
-
-![image](img/easy_peasy01.png)
-
-![image](img/easy_peasy02.png)
-
-![image](img/easy_peasy03.png)
-
----
----
----
-
-## ToolsRus 
-
 ![image](img/ToolsRus01.png)
 ![image](img/ToolsRus02.png)
 ![image](img/ToolsRus03.png)
@@ -32,7 +14,3 @@
 ![image](img/ToolsRus14.png)
 ![image](img/ToolsRus15.png)
 ![image](img/ToolsRus16.png)
-
----
----
----
