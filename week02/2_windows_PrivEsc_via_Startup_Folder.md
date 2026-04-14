@@ -39,7 +39,8 @@ net localgroup administrators attacker /add
 ### **Run The windows machine**
 
 ```
-xfreerdp3 /U:user /P:password321 /cert:ignore /V:ip /smart-sizing
+xfreerdp3 /u:user /p:password321 /cert:ignore /v:10.49.176.234 /smart-sizing
+
 ```
 
 ### **Go to startup folder**
