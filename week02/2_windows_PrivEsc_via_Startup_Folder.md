@@ -1,4 +1,4 @@
-## 🪟 Windows Startup Folder Privilege Escalation
+##  🪟 Windows Startup Folder Privilege Escalation
 
 **Startup Folder** হলো Windows-এর একটি বিশেষ ফোল্ডার, যেখানে রাখা যেকোনো প্রোগ্রাম বা স্ক্রিপ্ট ইউজার লগইন করার সাথে সাথে স্বয়ংক্রিয়ভাবে রান হয়।
 
